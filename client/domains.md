@@ -1,0 +1,2 @@
+Domain list
+- readwy.com
